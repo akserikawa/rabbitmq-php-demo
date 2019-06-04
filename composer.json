@@ -1,0 +1,12 @@
+{
+    "name": "akira_serikawa/rabbitmq-demo",
+    "require": {
+        "php-amqplib/php-amqplib": ">=2.6.1"
+    },
+    "authors": [
+        {
+            "name": "Akira",
+            "email": "aserikawa@chequemotiva.com"
+        }
+    ]
+}
